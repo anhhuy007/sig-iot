@@ -10,6 +10,9 @@ The IoT Dashboard Platform is a web application designed for managing and monito
 - Alerts and notifications for device status changes
 - Keep track of IoT devices history
 
+## Architecture
+![Project architecture](https://github.com/anhhuy007/sig-iot/blob/master/app%20architecture.png)
+
 ## Installation
 
 ### Prerequisites
