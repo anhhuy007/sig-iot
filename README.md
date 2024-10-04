@@ -45,3 +45,10 @@ The IoT Dashboard Platform is a web application designed for managing and monito
 - Select a sensor from the DataBox to view its details and control its status.
 - Use the sliders to adjust settings and monitor progress.
 - Receive alerts for any critical changes in sensor data.
+
+## Technology Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,postgres,arduino" />
+  </a>
+</p>
