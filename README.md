@@ -3,6 +3,14 @@
 ## Description
 The IoT Dashboard Platform is a web application designed for managing and monitoring Internet of Things (IoT) devices. It provides a user-friendly interface that displays real-time sensor data, allowing users to interact with and control various devices. The platform supports both manual and automatic control modes, enabling users to change device statuses and receive alerts based on sensor readings. Additionally, it features data visualization tools, such as charts and sliders, to track progress and guide users through device management.
 
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; padding-left: 100px">
+  <img src="https://github.com/anhhuy007/sig-iot/blob/master/iot1.jpg" alt="Image 1" style="width: 25%; height: 300px; object-position: cover; border-radius: 5px;" />
+  <img src="https://github.com/anhhuy007/sig-iot/blob/master/iot3.jpg" alt="Image 2" style="width: 23%; height: 300px; object-position: cover; border-radius: 5px;" />
+  <img src="https://github.com/anhhuy007/sig-iot/blob/master/iot4.jpg" alt="Image 3" style="width: 23%; height: 300px; object-position: cover; border-radius: 5px;" />
+  <img src="https://github.com/anhhuy007/sig-iot/blob/master/iot5.jpg" alt="Image 4" style="width: 23%; height: 300px; object-position: cover; border-radius: 5px;" />
+</div>
+
+
 ## Features
 - Real-time monitoring of IoT devices
 - Manual and automatic control modes
